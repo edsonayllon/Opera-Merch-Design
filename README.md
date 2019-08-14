@@ -10,4 +10,6 @@ This design expands on this concept with the phrase "Proof of Existence," where 
 
 Alternative phrases, such as "proof of fashion" and "proof of clothing" can be used. This design mimics the "Proof of" phrasing many consensus algorithms use.
 
+Minimal use of color and ink ensures low cost of production. 
+
 ![black shirt](./png/txtblackshirt.png)
