@@ -1,6 +1,6 @@
 # Opera-Merch-Design
 
-Cryptocurrencies are run by several computers agreeing by a consensus algorithm. This consensus algorithm is what allows these digital currencies to be decentralized. Consensus algorithms include:
+Cryptocurrencies are run by several computers coming to agreement through a consensus algorithm. This consensus algorithm is what allows these digital currencies to be decentralized. Consensus algorithms include:
 
 - Proof of Work (Bitcoin)
 - Proof of Stake (EOS and soon Ethereum)
