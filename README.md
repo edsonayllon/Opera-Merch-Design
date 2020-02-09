@@ -1,3 +1,14 @@
+---
+author: Edson Ayllon
+category: graphic design
+tags: 
+- web3
+status: complete
+twitter: https://twitter.com/relativeread
+---
+
+## Project 8-2019
+
 # Opera-Merch-Design
 
 Cryptocurrencies are run by several computers coming to agreement through a consensus algorithm. This consensus algorithm is what allows these digital currencies to be decentralized. Consensus algorithms include:
